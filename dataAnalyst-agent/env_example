@@ -1,0 +1,3 @@
+OPENAI_API_KEY="Your OpenAI API KEY"
+QDRANT_URL="Your Qdrant URL"
+QDRANT_API_KEY="Your Qdrant API KEY"
